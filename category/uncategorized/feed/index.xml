@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Leader Workshops</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=117" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Leader Workshops</title>
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=146" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Ignite Your Leadership Journey</description>
 	<lastBuildDate>Thu, 07 Dec 2023 07:05:26 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/leader-workshops.jpeg</url>
-	<title>Leader Workshops</title>
+	<title>Uncategorized &#8211; Leader Workshops</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>

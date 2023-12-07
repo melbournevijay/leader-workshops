@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Leader Workshops	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=118" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Peter	</title>
+	<atom:link href="http://localhost/peter/feed/?simply_static_page=132" rel="self" type="application/rss+xml" />
+	<link>/peter/</link>
 	<description>Ignite Your Leadership Journey</description>
 	<lastBuildDate>Thu, 07 Dec 2023 07:05:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
