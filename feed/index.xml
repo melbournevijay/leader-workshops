@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Leader Workshops</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=75" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=99" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Ignite Your Leadership Journey</description>
-	<lastBuildDate>Sat, 09 Dec 2023 04:41:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Dec 2023 05:40:56 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
