@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Leader Workshops	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=100" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Ignite Your Leadership Journey</description>
-	<lastBuildDate>Sat, 09 Dec 2023 05:40:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jan 2024 06:36:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

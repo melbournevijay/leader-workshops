@@ -65,8 +65,12 @@ ol, ul {
 .image-shadow img {
 	box-shadow: -10px 10px 0px rgba(7,59,76,0.1);
 } /* End GeneratePress Site CSS */
-
 a {
 	overflow-wrap: break-word;
 	word-break: break-all;
+}
+@media (max-width: 768px) {
+h2.email {
+	font-size: 18px;
+}
 }
