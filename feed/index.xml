@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Ignite Your Leadership Journey</description>
-	<lastBuildDate>Sat, 15 Jun 2024 05:48:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Jan 2024 09:36:41 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,22 +27,5 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Test</title>
-		<link>/test/</link>
-					<comments>/test/#respond</comments>
-		
-		<dc:creator><![CDATA[vijay]]></dc:creator>
-		<pubDate>Sat, 15 Jun 2024 05:46:44 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=4602</guid>
-
-					<description><![CDATA[Just a test. Lets see how this works.]]></description>
-		
-					<wfw:commentRss>/test/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
