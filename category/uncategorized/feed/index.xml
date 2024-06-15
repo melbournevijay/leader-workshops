@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Ignite Your Leadership Journey</description>
-	<lastBuildDate>Sat, 15 Jun 2024 05:46:45 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Jun 2024 05:48:45 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,7 +37,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=4602</guid>
 
-					<description><![CDATA[Just a test]]></description>
+					<description><![CDATA[Just a test. Lets see how this works.]]></description>
 		
 					<wfw:commentRss>/test/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
