@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Leader Workshops</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>vijay &#8211; Leader Workshops</title>
+	<atom:link href="/author/vijay/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Ignite Your Leadership Journey</description>
 	<lastBuildDate>Sat, 15 Jun 2024 05:46:45 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/cropped-Leader-Workshops-32x32.png</url>
-	<title>Leader Workshops</title>
+	<title>vijay &#8211; Leader Workshops</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
